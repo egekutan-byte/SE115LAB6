@@ -8,7 +8,7 @@ public class Scanerio0_LAB6 {
         letters[2]="c";
         letters[3]="d";
         letters[4]="e";
-        System.out.println(letters[4]);/*It will give an out of bounds error because
+        System.out.println(letters[10]);/*It will give an out of bounds error because
         there are only 5 values we cant give a number greater than 4*/
 
 
